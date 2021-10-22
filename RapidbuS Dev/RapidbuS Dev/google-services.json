@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990469142907",
+    "firebase_url": "https://rapidbus-dev.firebaseio.com",
+    "project_id": "rapidbus-dev",
+    "storage_bucket": "rapidbus-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990469142907:android:7c6828e300efb4387f25de",
+        "android_client_info": {
+          "package_name": "com.example.rapidbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990469142907-to0tmp5r6b50ukqk1ekh5d9gg6phbupa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0TKyhqJ64SFp_4ygbadtGx_dQzbM5Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990469142907-to0tmp5r6b50ukqk1ekh5d9gg6phbupa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

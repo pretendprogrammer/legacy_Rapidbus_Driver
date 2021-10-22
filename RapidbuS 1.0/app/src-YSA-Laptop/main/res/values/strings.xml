@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RapidbuS</string>
+    <string name="startRoute">Start Route</string>
+    <string name="stopCompleted">Stop Completed</string>
+    <string name="missed">Missed</string>
+    <string name="skipped">Skipped</string>
+    <string name="pickRoutePrompt">Click On a Route to Start!</string>
+    <string name="Headstart">Start Headstart</string>
+    <string name="startElementary">Start Elementary</string>
+</resources>
